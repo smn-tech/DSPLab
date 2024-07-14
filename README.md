@@ -4,6 +4,6 @@ Python 3.10.12
 
 Requirments:
 
-matplotlib==3.7.1
-numpy==1.24.3
-scipy==1.10.1
+- matplotlib==3.7.1
+- numpy==1.24.3
+- scipy==1.10.1
